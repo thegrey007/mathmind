@@ -1,6 +1,6 @@
 # Math Mind: GRPO Training for Mathematical Reasoning
 
-This repository implements Group Relative Policy Optimization (GRPO) for training language models on mathematical reasoning tasks, specifically using the GSM8K dataset. The codebase is modular and well-organized for easy extension and experimentation.
+This repository implements Group Relative Policy Optimization (GRPO) for training language models on mathematical reasoning tasks, specifically using the GSM8K dataset. 
 
 ## Overview
 
