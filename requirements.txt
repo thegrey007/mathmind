@@ -1,0 +1,30 @@
+# PyTorch and CUDA support
+torch==2.5.1
+setuptools<71.0.0
+
+# Flash Attention (optional, for faster training)
+# flash-attn  # Uncomment if you have compatible CUDA setup
+
+# Hugging Face libraries
+transformers==4.48.1
+datasets==3.1.0
+hf-transfer==0.1.9
+trl==0.14.0
+peft==0.14.0
+bitsandbytes==0.45.0
+
+# vLLM (optional, for faster generation in distributed training)
+# vllm==0.7.0  # Uncomment if needed
+
+# Math and symbolic computation
+sympy
+
+# Utilities
+wandb
+tqdm
+numpy
+
+# Jupyter (optional, for notebooks)
+# jupyter
+# ipywidgets
+
