@@ -241,23 +241,6 @@ Contributions are welcome! Please:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-[Specify your license here]
-
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@software{math-mind,
-  title={Math Mind: GRPO Training for Mathematical Reasoning},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/math-mind}
-}
-```
-
 ## Acknowledgments
 
 - Based on GRPO (Group Relative Policy Optimization) from the DeepSeekMath paper
